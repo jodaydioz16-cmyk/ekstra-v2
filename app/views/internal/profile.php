@@ -1,0 +1,1 @@
+<?php use App\Core\View; ?><p class="eyebrow">PROFIL</p><h1><?=View::e($user['name'])?></h1><div class="dashboard-card"><dl><dt>Email</dt><dd><?=View::e($user['email'])?></dd><dt>Peran akun</dt><dd><?=View::e($user['role'])?></dd></dl></div>

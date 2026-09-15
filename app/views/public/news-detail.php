@@ -1,0 +1,1 @@
+<?php use App\Core\View; ?><article class="article section"><p class="eyebrow"><?=date('d M Y',strtotime($item['published_at']))?></p><h1><?=View::e($item['title'])?></h1><p class="lead"><?=View::e($item['excerpt'])?></p><div><?=nl2br(View::e($item['body']))?></div></article>
