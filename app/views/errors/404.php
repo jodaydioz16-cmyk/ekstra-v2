@@ -1,0 +1,1 @@
+<section class="page-heading"><p class="eyebrow">404</p><h1>Halaman tidak ditemukan.</h1><p>Halaman yang Anda cari tidak tersedia atau tidak dapat diakses.</p><a class="button" href="/">Kembali ke beranda</a></section>
